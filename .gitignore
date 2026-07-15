@@ -1,0 +1,20 @@
+# Generated ESP-IDF output. Release binaries live under firmware/.
+build/
+build-*/
+backups/
+
+# Local ESP-IDF configuration.
+sdkconfig
+sdkconfig.old
+
+# Local Python environments and caches.
+.venv*/
+__pycache__/
+*.py[cod]
+
+# Editor, OS, and development-machine files.
+*.swp
+*~
+.DS_Store
+.vagrant/
+CLAUDE.md
