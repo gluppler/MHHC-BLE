@@ -18,12 +18,10 @@ also builds successfully with the pinned ESP-IDF 5.5 Docker image.
 
 - [Clone, build, and flash quick start](QUICKSTART.md)
 - [Complete organizer setup and customization guide](SETUP_GUIDE.md)
-- [Participant workstation and workshop setup](docs/workshop_setup.md)
 - [Bare-bones commands for all 20 flags](ble_ctf_commands.txt)
 - [Organizer-only intended solutions](docs/writeups/README.md)
 - [CTFd challenge descriptions](docs/challenges/README.md)
 - [Organizer-only accepted-value map](docs/customized_flag_map.md)
-- [Firmware reverse-engineering notes](docs/reverse_engineering.md)
 
 ## Hardware and tools
 
