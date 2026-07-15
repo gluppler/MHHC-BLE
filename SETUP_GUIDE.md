@@ -61,7 +61,6 @@ Official references:
 | `firmware/stock/` | Preserved stock ESP32 images and checksums |
 | `build-m0dul0/` | Ignored local output from custom source builds |
 | `docs/hints/` | Participant hints for flags 1 through 20 |
-| `docs/reverse_engineering.md` | Firmware map, recovered logic, and known defects |
 | `ble_ctf_commands.txt` | Organizer solution commands using `gratttool` |
 | `tools/firmware_inspector.py` | Dependency-free ESP image and partition-table validator |
 
