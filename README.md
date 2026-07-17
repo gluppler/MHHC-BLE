@@ -1,6 +1,21 @@
-# M0DUL0-CTF
+# M0DUL0-BLE-CTF
 
-M0DUL0-CTF is a customized, self-hosted Bluetooth Low Energy capture-the-flag
+Device Name : M0DUL0CTF (Addresses may vary on each machine)
+Equipment needed for setup :
+ESP32 CP2102 - [Link](https://my.shp.ee/KG9cLYti)
+MicroUSB to USB Adapter (DATA Cable) - [Link](https://my.shp.ee/qXq6PAB4)
+Transparent Case (ESP32 Specific) - [Link](https://my.shp.ee/8pSbBDnH)
+
+Steps needed for setup :
+
+Test the ESP32 by plugging the cable into it.
+After confirming it powers on, run the commands in quickstart.md to flash firmware.
+After flashing firmware, make sure to follow the exact commands to unblock bluetooth and run gratttool.
+After it works without any issues, unplug it and assemble the case.
+Yes the two buttons will pop off during assembly.
+THE END.
+
+M0DUL0-BLE-CTF is a customized, self-hosted Bluetooth Low Energy capture-the-flag
 for teaching BLE discovery, GATT reads and writes, notifications, indications,
 MTU behavior, and client/device attributes. It advertises as `M0DUL0CTF` and
 contains 20 challenges.
