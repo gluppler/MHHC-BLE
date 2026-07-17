@@ -1,5 +1,7 @@
 # M0DUL0-BLE-CTF
 
+Forked from @hackgnar's ble ctf and modified by @gluppler
+
 Device Name : M0DUL0CTF (Addresses may vary on each machine)
 Equipment needed for setup :
 - ESP32 CP2102 - [Link](https://my.shp.ee/KG9cLYti)
