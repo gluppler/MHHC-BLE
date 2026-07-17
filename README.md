@@ -2,9 +2,9 @@
 
 Device Name : M0DUL0CTF (Addresses may vary on each machine)
 Equipment needed for setup :
-ESP32 CP2102 - [Link](https://my.shp.ee/KG9cLYti)
-MicroUSB to USB Adapter (DATA Cable) - [Link](https://my.shp.ee/qXq6PAB4)
-Transparent Case (ESP32 Specific) - [Link](https://my.shp.ee/8pSbBDnH)
+- ESP32 CP2102 - [Link](https://my.shp.ee/KG9cLYti)
+- MicroUSB to USB Adapter (DATA Cable) - [Link](https://my.shp.ee/qXq6PAB4)
+- Transparent Case (ESP32 Specific) - [Link](https://my.shp.ee/8pSbBDnH)
 
 Steps needed for setup :
 
