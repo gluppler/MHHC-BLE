@@ -10,11 +10,11 @@ Equipment needed for setup :
 
 Steps needed for setup :
 
-Test the ESP32 by plugging the cable into it.
-After confirming it powers on, run the commands in quickstart.md to flash firmware.
-After flashing firmware, make sure to follow the exact commands to unblock bluetooth and run gratttool.
-After it works without any issues, unplug it and assemble the case.
-Yes the two buttons will pop off during assembly.
+1. Test the ESP32 by plugging the cable into it.
+2. After confirming it powers on, run the commands in quickstart.md to flash firmware.
+3. After flashing firmware, make sure to follow the exact commands to unblock bluetooth and run gratttool.
+4. After it works without any issues, unplug it and assemble the case.
+5. Yes the two buttons will pop off during assembly.
 THE END.
 
 M0DUL0-BLE-CTF is a customized, self-hosted Bluetooth Low Energy capture-the-flag
