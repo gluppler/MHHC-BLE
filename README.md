@@ -15,7 +15,7 @@ Steps needed for setup :
 3. After flashing firmware, make sure to follow the exact commands to unblock bluetooth and run gratttool.
 4. After it works without any issues, unplug it and assemble the case.
 5. Yes the two buttons will pop off during assembly.
-THE END.
+# THE END.
 
 M0DUL0-BLE-CTF is a customized, self-hosted Bluetooth Low Energy capture-the-flag
 for teaching BLE discovery, GATT reads and writes, notifications, indications,
